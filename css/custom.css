@@ -1,0 +1,136 @@
+.nav{
+	padding-bottom: 50px;
+}
+
+.nav-link active {
+	background-color: navy;
+}
+
+.nav-link {
+	color: navy;
+}
+
+body {
+background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 17%, rgba(156,255,206,1) 100%);
+font-family: ABeeZee, Arial, sans-serif;
+}
+
+.container{
+	text-align: center;
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.text{
+	background-color: grey;
+}
+
+.row{
+
+}
+
+.col{
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+fieldset {
+  display: block;
+  margin-left: 2px;
+  margin-right: 2px;
+  padding-top: 0.35em;
+  padding-bottom: 0.625em;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  border: 2px groove (internal value);
+}
+
+legend {
+  display: block;
+  padding-left: 2px;
+  padding-right: 2px;
+  border: none;
+}
+
+.border {
+	
+}
+
+span img {
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span {
+    box-sizing: border-box;
+    display: inline-block;
+    max-width: 67%;
+    border: 1px solid #CCC;
+    padding: 30px 20px;
+	margin: 20px;
+}
+
+div {
+	column-rule-color: blue;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#ind-2 {
+	text-align: left;
+}
+
+header {
+  padding: 30px;
+  text-align: center;
+  background: rgba(0,192,255);
+	color: white;
+}
+
+.float{
+	float: left;
+	max-width: 25%;
+	padding-right: 20px;
+}
+
+.floattext{
+	padding-top: 20px;
+	text-align: left;
+}
+
+.narrow{
+	max-width: 67%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+form{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+card{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-left:50px;
+	padding-right:50px;
+	
+}
