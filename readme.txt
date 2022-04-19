@@ -1,11 +1,10 @@
-http://atustudentlife.great-site.net/
+Link: http://atustudentlife.ml/ <br>
+Alternative: http://atustudentlife.great-site.net/
 
-For the database
-$dbhost ="sql302.epizy.com";
-$dbuser ="epiz_31535419";
-$dbpassword ="QkLKDX4cCQ";
-$dbname = "epiz_31535419_rent";
+GitHub: https://github.com/niall-carr/atustudentlife/
 
-To test the SQL
-ID: 143756
+The rent database only works on the hosted version, as the server takes too long to respond with a local copy.
+
+To test the SQL <br>
+ID: 143756 <br>
 Password: jnbbfj8WJg
