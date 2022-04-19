@@ -1,4 +1,4 @@
-![ATU](http://atustudentlife.ml/img/logo.gif)
+![ATU](https://i.imgur.com/DH6GSnk.gif)
 
 # ATU Student Life
 Helping you to get started at your Atlantic Technological University campus
